@@ -1,1 +1,1 @@
-# Machine-Translator
+A Machine Translator application that converts text from one language to another using NLP techniques. The system focuses on preserving meaning, grammar, and context while providing accurate and readable translations. This project demonstrates text preprocessing, model-based translation, and language understanding# Machine-Translator
